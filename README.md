@@ -5,11 +5,11 @@ Here are the dashboard screenshots created using Power BI. Please note that all 
 <br>A comprehensive dashboard to monitor Attendance,Leaving, Attrition Metrics across clients. Highlight employees with Amber or Red flags for proactive intervention and potential termination.
 <br>
 Termination Analysis:
-![image](https://raw.githubusercontent.com/Cong-hau/Operation-Dashboard/main/Screenshot%202024-08-28%20114025.png)
+![image](https://github.com/Cong-hau/Early-Warning-System/blob/main/2024-08-28_11h51_12.png)
 <br>
 Termination Detail:
-![image](https://raw.githubusercontent.com/Cong-hau/Operation-Dashboard/main/Screenshot%202024-08-28%20114041.png)
+![image](https://github.com/Cong-hau/Early-Warning-System/blob/main/2024-08-28_11h51_22.png)
 <br>
 EWS page:
-![image](https://raw.githubusercontent.com/Cong-hau/Operation-Dashboard/main/Screenshot%202024-08-28%20114053.png)
-<br>
+![image](https://github.com/Cong-hau/Early-Warning-System/blob/main/2024-08-28_11h51_30.png)
+
